@@ -63,3 +63,6 @@ section{
     border-image: linear gradient(180deg black, blue 27);
     border-image-slice: 1;
 }
+footer p {
+    text-align: center;
+}
